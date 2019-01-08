@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 inp_f = '/home/.../de_novo_RZE037.algs.tab' 
 out_f = '/home/.../RZE037_outp.txt'
 out_f2 = '/home/.../RZE037_cov_cDNA_outp.txt'
